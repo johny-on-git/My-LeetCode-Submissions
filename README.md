@@ -79,10 +79,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0226-invert-binary-tree](https://github.com/johny-on-git/My-LeetCode-Submissions/tree/master/0226-invert-binary-tree) |
 | [0695-max-area-of-island](https://github.com/johny-on-git/My-LeetCode-Submissions/tree/master/0695-max-area-of-island) |
 ## Breadth-First Search
 |  |
 | ------- |
+| [0226-invert-binary-tree](https://github.com/johny-on-git/My-LeetCode-Submissions/tree/master/0226-invert-binary-tree) |
 | [0695-max-area-of-island](https://github.com/johny-on-git/My-LeetCode-Submissions/tree/master/0695-max-area-of-island) |
 ## Union Find
 |  |
@@ -125,4 +127,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/johny-on-git/My-LeetCode-Submissions/tree/master/0347-top-k-frequent-elements) |
+## Tree
+|  |
+| ------- |
+| [0226-invert-binary-tree](https://github.com/johny-on-git/My-LeetCode-Submissions/tree/master/0226-invert-binary-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [0226-invert-binary-tree](https://github.com/johny-on-git/My-LeetCode-Submissions/tree/master/0226-invert-binary-tree) |
 <!---LeetCode Topics End-->
