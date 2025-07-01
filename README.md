@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [2226-rings-and-rods](https://github.com/johny-on-git/My-LeetCode-Submissions/tree/master/2226-rings-and-rods) |
 | [3194-find-words-containing-character](https://github.com/johny-on-git/My-LeetCode-Submissions/tree/master/3194-find-words-containing-character) |
 ## Binary Search
 |  |
@@ -55,4 +56,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0739-daily-temperatures](https://github.com/johny-on-git/My-LeetCode-Submissions/tree/master/0739-daily-temperatures) |
+## Hash Table
+|  |
+| ------- |
+| [2226-rings-and-rods](https://github.com/johny-on-git/My-LeetCode-Submissions/tree/master/2226-rings-and-rods) |
 <!---LeetCode Topics End-->
