@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/johny-on-git/My-LeetCode-Submissions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0135-candy](https://github.com/johny-on-git/My-LeetCode-Submissions/tree/master/0135-candy) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/johny-on-git/My-LeetCode-Submissions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/johny-on-git/My-LeetCode-Submissions/tree/master/0169-majority-element) |
@@ -122,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/johny-on-git/My-LeetCode-Submissions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [1013-fibonacci-number](https://github.com/johny-on-git/My-LeetCode-Submissions/tree/master/1013-fibonacci-number) |
 ## Recursion
 |  |
