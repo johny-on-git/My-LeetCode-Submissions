@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/johny-on-git/My-LeetCode-Submissions/tree/master/0042-trapping-rain-water) |
 | [0049-group-anagrams](https://github.com/johny-on-git/My-LeetCode-Submissions/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/johny-on-git/My-LeetCode-Submissions/tree/master/0053-maximum-subarray) |
 | [0073-set-matrix-zeroes](https://github.com/johny-on-git/My-LeetCode-Submissions/tree/master/0073-set-matrix-zeroes) |
@@ -88,12 +89,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/johny-on-git/My-LeetCode-Submissions/tree/master/0042-trapping-rain-water) |
 | [0094-binary-tree-inorder-traversal](https://github.com/johny-on-git/My-LeetCode-Submissions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0155-min-stack](https://github.com/johny-on-git/My-LeetCode-Submissions/tree/master/0155-min-stack) |
 | [0739-daily-temperatures](https://github.com/johny-on-git/My-LeetCode-Submissions/tree/master/0739-daily-temperatures) |
 ## Monotonic Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/johny-on-git/My-LeetCode-Submissions/tree/master/0042-trapping-rain-water) |
 | [0739-daily-temperatures](https://github.com/johny-on-git/My-LeetCode-Submissions/tree/master/0739-daily-temperatures) |
 ## Hash Table
 |  |
@@ -143,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/johny-on-git/My-LeetCode-Submissions/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/johny-on-git/My-LeetCode-Submissions/tree/master/0053-maximum-subarray) |
 | [0070-climbing-stairs](https://github.com/johny-on-git/My-LeetCode-Submissions/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/johny-on-git/My-LeetCode-Submissions/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -161,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/johny-on-git/My-LeetCode-Submissions/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/johny-on-git/My-LeetCode-Submissions/tree/master/0075-sort-colors) |
 | [0125-valid-palindrome](https://github.com/johny-on-git/My-LeetCode-Submissions/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/johny-on-git/My-LeetCode-Submissions/tree/master/0141-linked-list-cycle) |
