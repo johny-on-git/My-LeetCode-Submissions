@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0069-sqrtx](https://github.com/johny-on-git/My-LeetCode-Submissions/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/johny-on-git/My-LeetCode-Submissions/tree/master/0070-climbing-stairs) |
 | [1013-fibonacci-number](https://github.com/johny-on-git/My-LeetCode-Submissions/tree/master/1013-fibonacci-number) |
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/johny-on-git/My-LeetCode-Submissions/tree/master/3172-divisible-and-non-divisible-sums-difference) |
@@ -68,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0069-sqrtx](https://github.com/johny-on-git/My-LeetCode-Submissions/tree/master/0069-sqrtx) |
 | [0074-search-a-2d-matrix](https://github.com/johny-on-git/My-LeetCode-Submissions/tree/master/0074-search-a-2d-matrix) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/johny-on-git/My-LeetCode-Submissions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0907-koko-eating-bananas](https://github.com/johny-on-git/My-LeetCode-Submissions/tree/master/0907-koko-eating-bananas) |
