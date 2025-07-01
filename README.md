@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/johny-on-git/My-LeetCode-Submissions/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/johny-on-git/My-LeetCode-Submissions/tree/master/0074-search-a-2d-matrix) |
+| [0075-sort-colors](https://github.com/johny-on-git/My-LeetCode-Submissions/tree/master/0075-sort-colors) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/johny-on-git/My-LeetCode-Submissions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/johny-on-git/My-LeetCode-Submissions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0135-candy](https://github.com/johny-on-git/My-LeetCode-Submissions/tree/master/0135-candy) |
@@ -34,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/johny-on-git/My-LeetCode-Submissions/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/johny-on-git/My-LeetCode-Submissions/tree/master/0169-majority-element) |
 | [0347-top-k-frequent-elements](https://github.com/johny-on-git/My-LeetCode-Submissions/tree/master/0347-top-k-frequent-elements) |
 | [0594-longest-harmonious-subsequence](https://github.com/johny-on-git/My-LeetCode-Submissions/tree/master/0594-longest-harmonious-subsequence) |
@@ -149,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/johny-on-git/My-LeetCode-Submissions/tree/master/0075-sort-colors) |
 | [0125-valid-palindrome](https://github.com/johny-on-git/My-LeetCode-Submissions/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/johny-on-git/My-LeetCode-Submissions/tree/master/0141-linked-list-cycle) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/johny-on-git/My-LeetCode-Submissions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
