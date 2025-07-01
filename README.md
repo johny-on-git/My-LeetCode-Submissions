@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [3321-type-of-triangle](https://github.com/johny-on-git/My-LeetCode-Submissions/tree/master/3321-type-of-triangle) |
 | [3639-zero-array-transformation-i](https://github.com/johny-on-git/My-LeetCode-Submissions/tree/master/3639-zero-array-transformation-i) |
+| [3647-zero-array-transformation-iii](https://github.com/johny-on-git/My-LeetCode-Submissions/tree/master/3647-zero-array-transformation-iii) |
 ## Math
 |  |
 | ------- |
@@ -14,8 +15,18 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3321-type-of-triangle](https://github.com/johny-on-git/My-LeetCode-Submissions/tree/master/3321-type-of-triangle) |
+| [3647-zero-array-transformation-iii](https://github.com/johny-on-git/My-LeetCode-Submissions/tree/master/3647-zero-array-transformation-iii) |
 ## Prefix Sum
 |  |
 | ------- |
 | [3639-zero-array-transformation-i](https://github.com/johny-on-git/My-LeetCode-Submissions/tree/master/3639-zero-array-transformation-i) |
+| [3647-zero-array-transformation-iii](https://github.com/johny-on-git/My-LeetCode-Submissions/tree/master/3647-zero-array-transformation-iii) |
+## Greedy
+|  |
+| ------- |
+| [3647-zero-array-transformation-iii](https://github.com/johny-on-git/My-LeetCode-Submissions/tree/master/3647-zero-array-transformation-iii) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [3647-zero-array-transformation-iii](https://github.com/johny-on-git/My-LeetCode-Submissions/tree/master/3647-zero-array-transformation-iii) |
 <!---LeetCode Topics End-->
