@@ -106,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0206-reverse-linked-list](https://github.com/johny-on-git/My-LeetCode-Submissions/tree/master/0206-reverse-linked-list) |
 | [1013-fibonacci-number](https://github.com/johny-on-git/My-LeetCode-Submissions/tree/master/1013-fibonacci-number) |
 ## Memoization
 |  |
@@ -135,4 +136,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0226-invert-binary-tree](https://github.com/johny-on-git/My-LeetCode-Submissions/tree/master/0226-invert-binary-tree) |
+## Linked List
+|  |
+| ------- |
+| [0206-reverse-linked-list](https://github.com/johny-on-git/My-LeetCode-Submissions/tree/master/0206-reverse-linked-list) |
 <!---LeetCode Topics End-->
