@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0739-daily-temperatures](https://github.com/johny-on-git/My-LeetCode-Submissions/tree/master/0739-daily-temperatures) |
+| [0907-koko-eating-bananas](https://github.com/johny-on-git/My-LeetCode-Submissions/tree/master/0907-koko-eating-bananas) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/johny-on-git/My-LeetCode-Submissions/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [3194-find-words-containing-character](https://github.com/johny-on-git/My-LeetCode-Submissions/tree/master/3194-find-words-containing-character) |
 | [3321-type-of-triangle](https://github.com/johny-on-git/My-LeetCode-Submissions/tree/master/3321-type-of-triangle) |
@@ -40,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0907-koko-eating-bananas](https://github.com/johny-on-git/My-LeetCode-Submissions/tree/master/0907-koko-eating-bananas) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/johny-on-git/My-LeetCode-Submissions/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 ## Counting
 |  |
