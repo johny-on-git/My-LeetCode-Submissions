@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0073-set-matrix-zeroes](https://github.com/johny-on-git/My-LeetCode-Submissions/tree/master/0073-set-matrix-zeroes) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/johny-on-git/My-LeetCode-Submissions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/johny-on-git/My-LeetCode-Submissions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0135-candy](https://github.com/johny-on-git/My-LeetCode-Submissions/tree/master/0135-candy) |
@@ -86,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0073-set-matrix-zeroes](https://github.com/johny-on-git/My-LeetCode-Submissions/tree/master/0073-set-matrix-zeroes) |
 | [0141-linked-list-cycle](https://github.com/johny-on-git/My-LeetCode-Submissions/tree/master/0141-linked-list-cycle) |
 | [0169-majority-element](https://github.com/johny-on-git/My-LeetCode-Submissions/tree/master/0169-majority-element) |
 | [0347-top-k-frequent-elements](https://github.com/johny-on-git/My-LeetCode-Submissions/tree/master/0347-top-k-frequent-elements) |
@@ -116,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0073-set-matrix-zeroes](https://github.com/johny-on-git/My-LeetCode-Submissions/tree/master/0073-set-matrix-zeroes) |
 | [0200-number-of-islands](https://github.com/johny-on-git/My-LeetCode-Submissions/tree/master/0200-number-of-islands) |
 | [0695-max-area-of-island](https://github.com/johny-on-git/My-LeetCode-Submissions/tree/master/0695-max-area-of-island) |
 ## Sliding Window
