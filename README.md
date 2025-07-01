@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0155-min-stack](https://github.com/johny-on-git/My-LeetCode-Submissions/tree/master/0155-min-stack) |
 | [0739-daily-temperatures](https://github.com/johny-on-git/My-LeetCode-Submissions/tree/master/0739-daily-temperatures) |
 ## Monotonic Stack
 |  |
@@ -153,4 +154,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0206-reverse-linked-list](https://github.com/johny-on-git/My-LeetCode-Submissions/tree/master/0206-reverse-linked-list) |
+## Design
+|  |
+| ------- |
+| [0155-min-stack](https://github.com/johny-on-git/My-LeetCode-Submissions/tree/master/0155-min-stack) |
 <!---LeetCode Topics End-->
