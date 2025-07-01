@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/johny-on-git/My-LeetCode-Submissions/tree/master/0073-set-matrix-zeroes) |
+| [0074-search-a-2d-matrix](https://github.com/johny-on-git/My-LeetCode-Submissions/tree/master/0074-search-a-2d-matrix) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/johny-on-git/My-LeetCode-Submissions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/johny-on-git/My-LeetCode-Submissions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0135-candy](https://github.com/johny-on-git/My-LeetCode-Submissions/tree/master/0135-candy) |
@@ -65,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0074-search-a-2d-matrix](https://github.com/johny-on-git/My-LeetCode-Submissions/tree/master/0074-search-a-2d-matrix) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/johny-on-git/My-LeetCode-Submissions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0907-koko-eating-bananas](https://github.com/johny-on-git/My-LeetCode-Submissions/tree/master/0907-koko-eating-bananas) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/johny-on-git/My-LeetCode-Submissions/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
@@ -119,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/johny-on-git/My-LeetCode-Submissions/tree/master/0073-set-matrix-zeroes) |
+| [0074-search-a-2d-matrix](https://github.com/johny-on-git/My-LeetCode-Submissions/tree/master/0074-search-a-2d-matrix) |
 | [0200-number-of-islands](https://github.com/johny-on-git/My-LeetCode-Submissions/tree/master/0200-number-of-islands) |
 | [0695-max-area-of-island](https://github.com/johny-on-git/My-LeetCode-Submissions/tree/master/0695-max-area-of-island) |
 ## Sliding Window
