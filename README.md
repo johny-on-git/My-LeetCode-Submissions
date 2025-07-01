@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0695-max-area-of-island](https://github.com/johny-on-git/My-LeetCode-Submissions/tree/master/0695-max-area-of-island) |
 | [0739-daily-temperatures](https://github.com/johny-on-git/My-LeetCode-Submissions/tree/master/0739-daily-temperatures) |
 | [0907-koko-eating-bananas](https://github.com/johny-on-git/My-LeetCode-Submissions/tree/master/0907-koko-eating-bananas) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/johny-on-git/My-LeetCode-Submissions/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
@@ -60,4 +61,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2226-rings-and-rods](https://github.com/johny-on-git/My-LeetCode-Submissions/tree/master/2226-rings-and-rods) |
+## Depth-First Search
+|  |
+| ------- |
+| [0695-max-area-of-island](https://github.com/johny-on-git/My-LeetCode-Submissions/tree/master/0695-max-area-of-island) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0695-max-area-of-island](https://github.com/johny-on-git/My-LeetCode-Submissions/tree/master/0695-max-area-of-island) |
+## Union Find
+|  |
+| ------- |
+| [0695-max-area-of-island](https://github.com/johny-on-git/My-LeetCode-Submissions/tree/master/0695-max-area-of-island) |
+## Matrix
+|  |
+| ------- |
+| [0695-max-area-of-island](https://github.com/johny-on-git/My-LeetCode-Submissions/tree/master/0695-max-area-of-island) |
 <!---LeetCode Topics End-->
