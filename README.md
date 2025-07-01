@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0594-longest-harmonious-subsequence](https://github.com/johny-on-git/My-LeetCode-Submissions/tree/master/0594-longest-harmonious-subsequence) |
 | [0695-max-area-of-island](https://github.com/johny-on-git/My-LeetCode-Submissions/tree/master/0695-max-area-of-island) |
 | [0739-daily-temperatures](https://github.com/johny-on-git/My-LeetCode-Submissions/tree/master/0739-daily-temperatures) |
 | [0907-koko-eating-bananas](https://github.com/johny-on-git/My-LeetCode-Submissions/tree/master/0907-koko-eating-bananas) |
@@ -20,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0594-longest-harmonious-subsequence](https://github.com/johny-on-git/My-LeetCode-Submissions/tree/master/0594-longest-harmonious-subsequence) |
 | [3321-type-of-triangle](https://github.com/johny-on-git/My-LeetCode-Submissions/tree/master/3321-type-of-triangle) |
 | [3647-zero-array-transformation-iii](https://github.com/johny-on-git/My-LeetCode-Submissions/tree/master/3647-zero-array-transformation-iii) |
 ## Prefix Sum
@@ -48,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0594-longest-harmonious-subsequence](https://github.com/johny-on-git/My-LeetCode-Submissions/tree/master/0594-longest-harmonious-subsequence) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/johny-on-git/My-LeetCode-Submissions/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 ## Stack
 |  |
@@ -60,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0594-longest-harmonious-subsequence](https://github.com/johny-on-git/My-LeetCode-Submissions/tree/master/0594-longest-harmonious-subsequence) |
 | [2226-rings-and-rods](https://github.com/johny-on-git/My-LeetCode-Submissions/tree/master/2226-rings-and-rods) |
 ## Depth-First Search
 |  |
@@ -77,4 +81,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0695-max-area-of-island](https://github.com/johny-on-git/My-LeetCode-Submissions/tree/master/0695-max-area-of-island) |
+## Sliding Window
+|  |
+| ------- |
+| [0594-longest-harmonious-subsequence](https://github.com/johny-on-git/My-LeetCode-Submissions/tree/master/0594-longest-harmonious-subsequence) |
 <!---LeetCode Topics End-->
