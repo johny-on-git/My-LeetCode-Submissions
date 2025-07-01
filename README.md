@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/johny-on-git/My-LeetCode-Submissions/tree/master/0070-climbing-stairs) |
 | [1013-fibonacci-number](https://github.com/johny-on-git/My-LeetCode-Submissions/tree/master/1013-fibonacci-number) |
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/johny-on-git/My-LeetCode-Submissions/tree/master/3172-divisible-and-non-divisible-sums-difference) |
 | [3321-type-of-triangle](https://github.com/johny-on-git/My-LeetCode-Submissions/tree/master/3321-type-of-triangle) |
@@ -125,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/johny-on-git/My-LeetCode-Submissions/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/johny-on-git/My-LeetCode-Submissions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/johny-on-git/My-LeetCode-Submissions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [1013-fibonacci-number](https://github.com/johny-on-git/My-LeetCode-Submissions/tree/master/1013-fibonacci-number) |
@@ -136,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Memoization
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/johny-on-git/My-LeetCode-Submissions/tree/master/0070-climbing-stairs) |
 | [1013-fibonacci-number](https://github.com/johny-on-git/My-LeetCode-Submissions/tree/master/1013-fibonacci-number) |
 ## Two Pointers
 |  |
