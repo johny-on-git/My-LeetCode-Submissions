@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0695-max-area-of-island](https://github.com/johny-on-git/My-LeetCode-Submissions/tree/master/0695-max-area-of-island) |
 | [0739-daily-temperatures](https://github.com/johny-on-git/My-LeetCode-Submissions/tree/master/0739-daily-temperatures) |
 | [0907-koko-eating-bananas](https://github.com/johny-on-git/My-LeetCode-Submissions/tree/master/0907-koko-eating-bananas) |
+| [1510-find-lucky-integer-in-an-array](https://github.com/johny-on-git/My-LeetCode-Submissions/tree/master/1510-find-lucky-integer-in-an-array) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/johny-on-git/My-LeetCode-Submissions/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [3194-find-words-containing-character](https://github.com/johny-on-git/My-LeetCode-Submissions/tree/master/3194-find-words-containing-character) |
 | [3321-type-of-triangle](https://github.com/johny-on-git/My-LeetCode-Submissions/tree/master/3321-type-of-triangle) |
@@ -100,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/johny-on-git/My-LeetCode-Submissions/tree/master/0169-majority-element) |
 | [0347-top-k-frequent-elements](https://github.com/johny-on-git/My-LeetCode-Submissions/tree/master/0347-top-k-frequent-elements) |
 | [0594-longest-harmonious-subsequence](https://github.com/johny-on-git/My-LeetCode-Submissions/tree/master/0594-longest-harmonious-subsequence) |
+| [1510-find-lucky-integer-in-an-array](https://github.com/johny-on-git/My-LeetCode-Submissions/tree/master/1510-find-lucky-integer-in-an-array) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/johny-on-git/My-LeetCode-Submissions/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 ## Stack
 |  |
@@ -126,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/johny-on-git/My-LeetCode-Submissions/tree/master/0347-top-k-frequent-elements) |
 | [0424-longest-repeating-character-replacement](https://github.com/johny-on-git/My-LeetCode-Submissions/tree/master/0424-longest-repeating-character-replacement) |
 | [0594-longest-harmonious-subsequence](https://github.com/johny-on-git/My-LeetCode-Submissions/tree/master/0594-longest-harmonious-subsequence) |
+| [1510-find-lucky-integer-in-an-array](https://github.com/johny-on-git/My-LeetCode-Submissions/tree/master/1510-find-lucky-integer-in-an-array) |
 | [2226-rings-and-rods](https://github.com/johny-on-git/My-LeetCode-Submissions/tree/master/2226-rings-and-rods) |
 ## Depth-First Search
 |  |
