@@ -3,19 +3,6 @@ class Solution {
         int s = nums1.length + nums2.length;
         int[] mergedArray = new int[s];
 
-      /**   for(int i =0; i < nums1.length; i++)
-        {
-            mergedArray[i] = nums1[i];
-        }
-        int indexer = nums1.length;
-        
-        for(int j = 0; j < nums2.length;j++)
-        {
-            mergedArray[indexer] = nums2[j];
-            indexer++;
-        }
-        */
-
         int p1 = 0;
         int p2 = 0;
         int m = 0;
@@ -38,12 +25,6 @@ class Solution {
             m++;
         }
 
-        for(int i : mergedArray)
-        {
-            System.out.print(i+",");
-        }
-        System.out.println();
-
 if(s%2 == 1)
 {
     return mergedArray[(s-1)/2];
@@ -51,6 +32,6 @@ if(s%2 == 1)
 {
     return (double) ( (mergedArray[s/2]) + (mergedArray[(s/2)-1]))/2;
 }
-    //    return 0.00;
+    
     }
 }
