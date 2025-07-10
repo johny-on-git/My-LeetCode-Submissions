@@ -13,11 +13,11 @@ class Solution {
 
         gaps[endTime.length] = eventTime - endTime[endTime.length-1];
 
-        for(int i : gaps)
-        {
-            System.out.print(i+" , ");
-        }
-        System.out.println("");
+        ///for(int i : gaps)
+        //{
+         //   System.out.print(i+" , ");
+        //}
+       // System.out.println("");
 
         int[] maxGapBefore = new int[n+2];
         int[] maxGapAfter = new int[n+2];
@@ -38,9 +38,9 @@ class Solution {
         for (int i = 0; i < n; i++) 
         {
             int duration = endTime[i]-startTime[i];
-            int leftGap = gaps[i];
-            int rightGap = gaps[i + 1];
-            int combinedGap = leftGap + rightGap;
+            //int leftGap = gaps[i];
+            //int rightGap = gaps[i + 1];
+            int combinedGap = gaps[i] + gaps[i+1];
 
             int bestGap = Math.max(
                 i > 0 ? maxGapBefore[i] : 0,
