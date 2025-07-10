@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/johny-on-git/My-LeetCode-Submissions/tree/master/0001-two-sum) |
+| [0004-median-of-two-sorted-arrays](https://github.com/johny-on-git/My-LeetCode-Submissions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0011-container-with-most-water](https://github.com/johny-on-git/My-LeetCode-Submissions/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/johny-on-git/My-LeetCode-Submissions/tree/master/0015-3sum) |
 | [0027-remove-element](https://github.com/johny-on-git/My-LeetCode-Submissions/tree/master/0027-remove-element) |
@@ -95,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/johny-on-git/My-LeetCode-Submissions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0035-search-insert-position](https://github.com/johny-on-git/My-LeetCode-Submissions/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/johny-on-git/My-LeetCode-Submissions/tree/master/0069-sqrtx) |
 | [0074-search-a-2d-matrix](https://github.com/johny-on-git/My-LeetCode-Submissions/tree/master/0074-search-a-2d-matrix) |
@@ -211,6 +213,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/johny-on-git/My-LeetCode-Submissions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0053-maximum-subarray](https://github.com/johny-on-git/My-LeetCode-Submissions/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/johny-on-git/My-LeetCode-Submissions/tree/master/0169-majority-element) |
 | [0347-top-k-frequent-elements](https://github.com/johny-on-git/My-LeetCode-Submissions/tree/master/0347-top-k-frequent-elements) |
