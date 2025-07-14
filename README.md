@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/johny-on-git/My-LeetCode-Submissions/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/johny-on-git/My-LeetCode-Submissions/tree/master/0070-climbing-stairs) |
 | [1013-fibonacci-number](https://github.com/johny-on-git/My-LeetCode-Submissions/tree/master/1013-fibonacci-number) |
+| [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/johny-on-git/My-LeetCode-Submissions/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/johny-on-git/My-LeetCode-Submissions/tree/master/3172-divisible-and-non-divisible-sums-difference) |
 | [3321-type-of-triangle](https://github.com/johny-on-git/My-LeetCode-Submissions/tree/master/3321-type-of-triangle) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/johny-on-git/My-LeetCode-Submissions/tree/master/3600-find-the-k-th-character-in-string-game-i) |
@@ -247,6 +248,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0021-merge-two-sorted-lists](https://github.com/johny-on-git/My-LeetCode-Submissions/tree/master/0021-merge-two-sorted-lists) |
 | [0141-linked-list-cycle](https://github.com/johny-on-git/My-LeetCode-Submissions/tree/master/0141-linked-list-cycle) |
 | [0206-reverse-linked-list](https://github.com/johny-on-git/My-LeetCode-Submissions/tree/master/0206-reverse-linked-list) |
+| [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/johny-on-git/My-LeetCode-Submissions/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 ## Design
 |  |
 | ------- |
