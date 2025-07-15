@@ -6,6 +6,11 @@ class Solution {
         Boolean check3 = false;
         Boolean check4 = false;
 
+        if(!check1)
+        {
+            return false;
+        }
+
         for(Character c : word.toCharArray())
         {   
             int ascii = (int) c;
@@ -39,11 +44,6 @@ class Solution {
         }
 
         return check1 && check2 && check3 && check4;
-
-       /* return (word.length() >= 3) 
-        && word.matches("[a-zA-Z0-9]+") 
-        && word.matches(".*[aeiouAEIOU].*") 
-        && word.matches(".*[bcdfghjklmnpqrstvwxyzBCDFGHJKLMNPQRSTVWXYZ].*"); */
 
 
         
