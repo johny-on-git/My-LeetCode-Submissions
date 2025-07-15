@@ -94,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0424-longest-repeating-character-replacement](https://github.com/johny-on-git/My-LeetCode-Submissions/tree/master/0424-longest-repeating-character-replacement) |
 | [2226-rings-and-rods](https://github.com/johny-on-git/My-LeetCode-Submissions/tree/master/2226-rings-and-rods) |
 | [3194-find-words-containing-character](https://github.com/johny-on-git/My-LeetCode-Submissions/tree/master/3194-find-words-containing-character) |
+| [3396-valid-word](https://github.com/johny-on-git/My-LeetCode-Submissions/tree/master/3396-valid-word) |
 ## Binary Search
 |  |
 | ------- |
