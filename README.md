@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0739-daily-temperatures](https://github.com/johny-on-git/My-LeetCode-Submissions/tree/master/0739-daily-temperatures) |
 | [0907-koko-eating-bananas](https://github.com/johny-on-git/My-LeetCode-Submissions/tree/master/0907-koko-eating-bananas) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/johny-on-git/My-LeetCode-Submissions/tree/master/1510-find-lucky-integer-in-an-array) |
+| [1813-maximum-erasure-value](https://github.com/johny-on-git/My-LeetCode-Submissions/tree/master/1813-maximum-erasure-value) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/johny-on-git/My-LeetCode-Submissions/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [3194-find-words-containing-character](https://github.com/johny-on-git/My-LeetCode-Submissions/tree/master/3194-find-words-containing-character) |
 | [3321-type-of-triangle](https://github.com/johny-on-git/My-LeetCode-Submissions/tree/master/3321-type-of-triangle) |
@@ -140,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0424-longest-repeating-character-replacement](https://github.com/johny-on-git/My-LeetCode-Submissions/tree/master/0424-longest-repeating-character-replacement) |
 | [0594-longest-harmonious-subsequence](https://github.com/johny-on-git/My-LeetCode-Submissions/tree/master/0594-longest-harmonious-subsequence) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/johny-on-git/My-LeetCode-Submissions/tree/master/1510-find-lucky-integer-in-an-array) |
+| [1813-maximum-erasure-value](https://github.com/johny-on-git/My-LeetCode-Submissions/tree/master/1813-maximum-erasure-value) |
 | [2226-rings-and-rods](https://github.com/johny-on-git/My-LeetCode-Submissions/tree/master/2226-rings-and-rods) |
 ## Depth-First Search
 |  |
@@ -176,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/johny-on-git/My-LeetCode-Submissions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0424-longest-repeating-character-replacement](https://github.com/johny-on-git/My-LeetCode-Submissions/tree/master/0424-longest-repeating-character-replacement) |
 | [0594-longest-harmonious-subsequence](https://github.com/johny-on-git/My-LeetCode-Submissions/tree/master/0594-longest-harmonious-subsequence) |
+| [1813-maximum-erasure-value](https://github.com/johny-on-git/My-LeetCode-Submissions/tree/master/1813-maximum-erasure-value) |
 | [3743-reschedule-meetings-for-maximum-free-time-i](https://github.com/johny-on-git/My-LeetCode-Submissions/tree/master/3743-reschedule-meetings-for-maximum-free-time-i) |
 ## Dynamic Programming
 |  |
