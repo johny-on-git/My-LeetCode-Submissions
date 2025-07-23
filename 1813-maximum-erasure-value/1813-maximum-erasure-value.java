@@ -18,7 +18,6 @@ class Solution {
                     left++;
                 }
             }
-            
             currentSum = currentSum+nums[right];
             visited.add(nums[right]);
             maxSum = Math.max(maxSum,currentSum);
