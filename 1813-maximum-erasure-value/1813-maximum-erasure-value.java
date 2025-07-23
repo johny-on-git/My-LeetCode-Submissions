@@ -11,7 +11,7 @@ class Solution {
         {
             if(visited.contains(nums[right]))
             {
-                while( visited.contains(nums[right]))
+                while(visited.contains(nums[right]))
                 {
                     visited.remove(nums[left]);
                     currentSum = currentSum - nums[left];
@@ -23,7 +23,7 @@ class Solution {
             visited.add(nums[right]);
             maxSum = Math.max(maxSum,currentSum);
             right++;
-            System.out.println(maxSum);
+            //System.out.println(maxSum);
 
         }
         return maxSum;
