@@ -14,11 +14,11 @@ class Solution {
                 while(visited.contains(nums[right]))
                 {
                     visited.remove(nums[left]);
-                    currentSum = currentSum - nums[left];
+                    currentSum -= nums[left];
                     left++;
                 }
             }
-            currentSum = currentSum+nums[right];
+            currentSum += nums[right];
             visited.add(nums[right]);
             maxSum = Math.max(maxSum,currentSum);
             right++;
